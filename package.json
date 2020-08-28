@@ -1,0 +1,20 @@
+{
+  "name": "@voxelmed/dicom-decoder-ring",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VoxelMed/dicom-decoder-ring.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VoxelMed/dicom-decoder-ring/issues"
+  },
+  "homepage": "https://github.com/VoxelMed/dicom-decoder-ring#readme"
+}
