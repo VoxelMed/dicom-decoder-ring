@@ -46,5 +46,11 @@
     "*.{js,ts,tsx}": [
       "eslint --fix"
     ]
+  },
+  "dependencies": {
+    "@voxelmed/charlsjs": "^0.0.2",
+    "@voxelmed/openjpegjs": "^0.0.2",
+    "jpeg-js": "^0.4.2",
+    "jpeg-lossless-decoder-js": "^2.0.4"
   }
 }
